@@ -1,5 +1,5 @@
 -👋 Hi, I’m ADITYA AMAN
--♠♠ AKA: @AdityaAmanAir
+ ♠♠ AKA: @AdityaAmanAir
 -👀 I’m interested in programming (I am interested in programming as a whole, but more in C++) and mathematics (calculus, discrete mathematics, graph theory, and statistics).
 -🌱 I’m currently learning C++, Python, and Java.
 -💞️ I’m looking to collaborate on AI-related open-source projects.
