@@ -37,10 +37,6 @@
   <a href="https://github.com/AdityaAmanAir"><img alt="AdityaAmanAir's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=AdityaAmanAir&bg_color=RRGGBBAA&title_color=84C2C0&color=84C2C0&line=84C2C0&point=DEDEDE&hide_border=true&custom_title=Contribution⠀Graph" /></a>
   </div>
 
-<div align="center">
-<br>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=27&pause=1000&color=F7E42C&width=601&height=61&lines=%F0%9F%8D%80Thank+You+For+Visiting+%F0%9F%90%B1" alt="Typing SVG" /></a></div>
-
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=84C2C0&height=70&section=footer"/>
 
 <!---
