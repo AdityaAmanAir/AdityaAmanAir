@@ -22,13 +22,15 @@
 ## 🏆 GitHub Trophies:
 ![](https://github-profile-trophy.vercel.app/?username=AdityaAmanAir&theme=gruvbox&no-frame=false&no-bg=false&margin-w=4)
 
-### ✍️ Dev Quote:
+## ✍️ Dev Quote:
 "Currently, I am 18, and I want to see my future self waste time on meaningless things like just building a profile—I want to shape the future itself, NOW!."
 
-### 🔝 Top Contributed Repo:
+## 🔝 Top Contributed Repo:
 ![](https://github-contributor-stats.vercel.app/api?username=AdityaAmanAir&limit=5&theme=great-gatsby&combine_all_yearly_contributions=true)
 
 [![](https://visitcount.itsvg.in/api?id=AdityaAmanAir&icon=1&color=0)](https://visitcount.itsvg.in)
+
+##
 
 <div align="center">
   <a href="https://github.com/AdityaAmanAir"><img alt="AdityaAmanAir's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=AdityaAmanAir&bg_color=RRGGBBAA&title_color=84C2C0&color=84C2C0&line=84C2C0&point=DEDEDE&hide_border=true&custom_title=Contribution⠀Graph" /></a>
