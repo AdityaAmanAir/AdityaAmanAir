@@ -22,7 +22,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=AdityaAmanAir&theme=gruvbox&no-frame=false&no-bg=false&margin-w=4)
 
 ## ✍️ Dev Quote:
-"Currently, I am 18 (Year: 2024), and I want to see my future self waste time on meaningless things like just building a profile—I want to shape the future itself, NOW!."
+"Currently, I am 18 (Year: 2024), and I don't want to see my future self waste time on meaningless things like just building a profile—I want to shape the future itself, NOW!."
 
 ## 🔝 Top Contributed Repo:
 ![](https://github-contributor-stats.vercel.app/api?username=AdityaAmanAir&limit=5&theme=great-gatsby&combine_all_yearly_contributions=true)
