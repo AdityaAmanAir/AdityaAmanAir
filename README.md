@@ -30,18 +30,10 @@
 
 
 # 📊 GitHub Stats:
- 
+  ![](https://github-readme-stats.vercel.app/api?username=AdityaAmanAir&theme=great-gatsby&hide_border=false&include_all_commits=false&count_private=false)![](https://nirzak-streak-stats.vercel.app/?user=AdityaAmanAir&theme=great-gatsby&hide_border=false) <br/> 
+  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaAmanAir&theme=great-gatsby&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
   
-  <!-- Stats and Streak Container -->
-  <div style="margin-bottom: 30px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=AdityaAmanAir&theme=great-gatsby&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
-    <img src="https://streak-stats.demolab.com/?user=AdityaAmanAir&theme=great-gatsby&hide_border=false" alt="GitHub Streak" />
-      </br>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaAmanAir&theme=great-gatsby&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
-  
-  </div>
-  
-</div>
+
 ## 🏆 GitHub Trophies:
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=AdityaAmanAir&theme=gruvbox&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" />
@@ -61,11 +53,9 @@
   <a href="https://github.com/AdityaAmanAir"><img alt="AdityaAmanAir's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=AdityaAmanAir&bg_color=RRGGBBAA&title_color=84C2C0&color=84C2C0&line=84C2C0&point=DEDEDE&hide_border=true&custom_title=Contribution⠀Graph" /></a>
   </div> 
   
-##
-
 <div align="center">
   <a href="https://github.com/AdityaAmanAir">
-    <img alt="AdityaAmanAir's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=AdityaAmanAir&bg_color=0D1117&title_color=F9E076&color=F9E076&line=F9E076&point=FF0000&hide_border=true&custom_title=Contribution⠀Graph (Past Month)" />
+    <img alt="AdityaAmanAir's Activity Graph"/>
   </a>
 </div>
 
