@@ -30,7 +30,7 @@
 
 
 # 📊 GitHub Stats:
- <div align="center">
+ 
   
   <!-- Stats and Streak Container -->
   <div style="margin-bottom: 30px;">
@@ -55,7 +55,6 @@
   <img src="https://github-contributor-stats.vercel.app/api?username=AdityaAmanAir&limit=5&theme=great-gatsby&combine_all_yearly_contributions=true" alt="Contributor Stats" />
 </div>
 </br>
-<div align="center">
   <a href="https://github.com/AdityaAmanAir">
     <img alt="Activity Graph" 
          src="https://github-readme-activity-graph.vercel.app/graph/?username=AdityaAmanAir&bg_color=0D1117&title_color=F9E076&color=F9E076&line=F9E076&point=FF0000&hide_border=true&custom_title=Contribution⠀Graph (Past Month)" />
