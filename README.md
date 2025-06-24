@@ -54,6 +54,13 @@
 <div style="margin-bottom: 30px;" align="center">
   <img src="https://github-contributor-stats.vercel.app/api?username=AdityaAmanAir&limit=5&theme=great-gatsby&combine_all_yearly_contributions=true" alt="Contributor Stats" />
 </div>
+
+##
+
+<div align="center">
+  <a href="https://github.com/AdityaAmanAir"><img alt="AdityaAmanAir's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=AdityaAmanAir&bg_color=RRGGBBAA&title_color=84C2C0&color=84C2C0&line=84C2C0&point=DEDEDE&hide_border=true&custom_title=Contribution⠀Graph" /></a>
+  </div> 
+  
 ##
 
 <div align="center">
