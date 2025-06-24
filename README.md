@@ -36,6 +36,7 @@
   <div style="margin-bottom: 30px;">
     <img src="https://github-readme-stats.vercel.app/api?username=AdityaAmanAir&theme=great-gatsby&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
     <img src="https://streak-stats.demolab.com/?user=AdityaAmanAir&theme=great-gatsby&hide_border=false" alt="GitHub Streak" />
+      </br>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaAmanAir&theme=great-gatsby&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
   
   </div>
@@ -53,7 +54,7 @@
 <div style="margin-bottom: 30px;" align="center">
   <img src="https://github-contributor-stats.vercel.app/api?username=AdityaAmanAir&limit=5&theme=great-gatsby&combine_all_yearly_contributions=true" alt="Contributor Stats" />
 </div>
-
+</br>
 <div align="center">
   <a href="https://github.com/AdityaAmanAir">
     <img alt="Activity Graph" 
