@@ -7,7 +7,7 @@
 ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=AdityaAmanAir)
 
 # 💫 About Me:                                                                            
--👋 Hi, I’m ADITYA AMAN<br>-♠♠ AKA: @AdityaAmanAir<br>-👀 I’m interested in programming (I am interested in programming as a whole, but more in C++) and mathematics (calculus, discrete mathematics, graph theory, and statistics).<br>-🌱 I’m currently learning C++, Python, and Java.<br>-💞️ I’m looking to collaborate on AI-related open-source projects.<br>-📫 How to reach me: amanaditya1947@proton.me<br>-😄 Pronouns: He/Him/His<br>
+-👋 Hi, I’m ADITYA AMAN<br>-♠♠ AKA: @AdityaAmanAir<br>-👀 I’m interested in programming (I am interested in programming as a whole, but more in C++) and mathematics (calculus, discrete mathematics, graph theory, and statistics).<br>-🌱 I’m currently learning C++, Python, and Java.<br>-💞️ I’m looking to collaborate on AI-related open-source projects.<br>-📫 How to reach me: amanaditya1947@proton.me<br>-😄 Pronouns: He/Him<br>
 
 # 💻 Tech Stack:
 <div align="center">
@@ -22,7 +22,7 @@
 <p align="center"> <img src="https://skillicons.dev/icons?i=cpp,python,java,html,css,js,pytorch,git,linux&theme=dark&perline=8" /> </p><!-- 4D Stats Visualization -->
 
 <details>
-<summary><b>💁‍♂️ Click here to know more...<span style="text-decoration: none; border-bottom: 1px solid;">[Expand]      
+<summary><b>💁‍♂️ Click here to know more...<span style="text-decoration: none; border-bottom: 1px solid;"> [Expand/ Scale Down]      
 
 </span></b></summary>⚡ Fun fact: The Pratfall Effect—People tend to like you more if you make small mistakes. In society, someone who appears too perfect can seem intimidating or unrelatable, but showing minor flaws makes you more likable and human.
  
@@ -32,16 +32,16 @@
 # 📊 GitHub Stats:
  <div align="center">
   
-  <!-- Stats and Streak - Side by Side -->
-  <div>
+  <!-- Stats and Streak Container -->
+  <div style="margin-bottom: 30px;">
     <img src="https://github-readme-stats.vercel.app/api?username=AdityaAmanAir&theme=great-gatsby&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
     <img src="https://streak-stats.demolab.com/?user=AdityaAmanAir&theme=great-gatsby&hide_border=false" alt="GitHub Streak" />
   </div>
-  
+
   <!-- Top Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaAmanAir&theme=great-gatsby&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
+  
 </div>
-
 ## 🏆 GitHub Trophies:
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=AdityaAmanAir&theme=gruvbox&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" />
@@ -51,18 +51,13 @@
 "Currently, I am 18 (Year: 2024), and I don't want to see my future self waste time on meaningless things like just building a profile—I want to shape the future itself, NOW!."
 
 ## 🔝 Top Contributed Repo:
-<div align="center">
-  
-  <!-- GitHub Contributor Stats -->
+<<div style="margin-bottom: 30px;" align="center">
   <img src="https://github-contributor-stats.vercel.app/api?username=AdityaAmanAir&limit=5&theme=great-gatsby&combine_all_yearly_contributions=true" alt="Contributor Stats" />
-
-  
 </div>
-
 
 <div align="center">
   <a href="https://github.com/AdityaAmanAir">
-    <img alt="AdityaAmanAir's Activity Graph" 
+    <img alt="Activity Graph" 
          src="https://github-readme-activity-graph.vercel.app/graph/?username=AdityaAmanAir&bg_color=0D1117&title_color=F9E076&color=F9E076&line=F9E076&point=FF0000&hide_border=true&custom_title=Contribution⠀Graph (Past Month)" />
   </a>
 </div>
