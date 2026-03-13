@@ -2,6 +2,8 @@
 About Aditya Aman 
 About adityaamanair
 About Aditya Aman Air
+aka : @adityaamanair
+aka : AdityaAmanAir
 
 Aditya Aman is a Computer Science undergraduate at VIT Bhopal University with interests in mathematics, algorithms, and computational methods. He scored 97.893 percentile in Mathematics in JEE Main and obtained All India Rank 463 in the Indian Statistical Institute Admission Test (BSDS).
 
@@ -165,6 +167,7 @@ Broad interest in undergraduate mathematics and its applications in computing, i
 ![](https://komarev.com/ghpvc/?username=AdityaAmanAir&style=flat-square)
 ## Note*
 **Most** repositories here contain **experiments**, **coursework**, or **small systems** built while learning new tools.
+<h1 align="right">AKA: AdityaAmanAir</h1>
 
 ---
 
